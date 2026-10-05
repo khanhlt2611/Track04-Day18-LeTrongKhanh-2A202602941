@@ -16,3 +16,6 @@ __pycache__/
 .ipynb_checkpoints/
 .venv*/
 .DS_Store
+
+!submission/autolabel/
+!submission/autolabel/bus.txt
